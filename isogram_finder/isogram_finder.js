@@ -1,5 +1,5 @@
 const IsogramFinder = function (word) {
-this.word = word.split('');
+this.word = word.toUpperCase().split('');
 }
 
 IsogramFinder.prototype.isEmpty = function (ary, duplicates) {
