@@ -12,7 +12,8 @@ Second to model some common word games.
 
 #### Notes
 * Use this for a reference - syntax will destroy you particularly when nesting conditionals see last example
-
+* SYNTAX SYNTAX SYNTAX, PRACTICE PRACTICE PRACTICE!
+* Reduce is an absolute monster. Get handy with it.
 
 
 
